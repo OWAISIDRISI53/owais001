@@ -1,0 +1,42 @@
+header h1{
+  height: 40px;
+  background: skyblue;
+  padding: 30px;
+  text-align: center;
+}
+nav ul{
+  display: flex;
+  padding: 12px;
+  background: red;
+  flex-wrap: wrap;
+}
+nav a{
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+ 
+}
+nav ul li {
+  list-style: none;
+  
+}
+.sec1{
+  margin: 4px;
+  border: 1px solid black;
+  padding: 6px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.center{
+  text-align: center;
+  font-size: 30px;
+  color: rebeccapurple;
+}
+.footer{
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  background: tomato;
+  color: white;
+}
